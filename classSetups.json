@@ -1,0 +1,54 @@
+{
+  "assault_rifle": {
+    "acr": {
+      "name": "ACR Class Setup",
+      "primary": "ACR with Silencer",
+      "secondary": "SPAS-12 with Grip",
+      "equipment": "Semtex",
+      "specialGrenade": "Stun",
+      "perk1": "Scavenger Pro",
+      "perk2": "Stopping Power Pro",
+      "perk3": "Ninja Pro",
+      "deathstreak": "Final Stand"
+    }
+  },
+  "smg": {
+    "ump45": {
+      "name": "UMP45 Class Setup",
+      "primary": "UMP45 with Silencer",
+      "secondary": "AA-12 with Extended Mags",
+      "equipment": "C4",
+      "specialGrenade": "Flash",
+      "perk1": "Marathon Pro",
+      "perk2": "Lightweight Pro",
+      "perk3": "Commando Pro",
+      "deathstreak": "Painkiller"
+    }
+  },
+	"lmg": {
+		"rpd": {
+			"name": "RPD Class Setup",
+			"primary": "RPD with Grip",
+			"secondary": "M93 Raffica with Akimbo",
+			"equipment": "Semtex",
+			"specialGrenade": "Stun",
+			"perk1": "Sleight of Hand Pro",
+			"perk2": "Stopping Power Pro",
+			"perk3": "Steady Aim Pro",
+			"deathstreak": "Final Stand"
+		}
+	},
+  "sniper": {
+    "intervention": {
+      "name": "Intervention Class Setup",
+      "primary": "Intervention with FMJ",
+      "secondary": ".44 Magnum with Tactical Knife",
+      "equipment": "Claymore",
+      "specialGrenade": "Smoke",
+      "perk1": "Sleight of Hand Pro",
+      "perk2": "Stopping Power Pro",
+      "perk3": "Steady Aim Pro",
+      "deathstreak": "Martyrdom"
+    }
+  }
+}
